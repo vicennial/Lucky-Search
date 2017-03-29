@@ -7,7 +7,7 @@ Libraries used: BeautifulSoup(bs4), Requests, Sys, Webbrowser, Time.
 ### With Installation
 In the terminal, type the following commands:  
 `sudo chmod +x install.bashrc`  
-`sudo ./install.bashec`  
+`sudo ./install.bashrc`  
 Then to run the script, type the following:  
 `lucky <Search Key>`  
   
