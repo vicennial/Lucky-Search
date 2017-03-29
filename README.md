@@ -9,8 +9,8 @@ In the terminal, type the following commands:
 `sudo chmod +x install.bashrc`  
 `sudo ./install.bashec`  
 Then to run the script, type the following:  
-`lucky \<Search Key>`  
+`lucky <Search Key>`  
   
 ### Without Installation  
 Open terminal in the downloaded directoy and type the following:  
-`python3 lucky.py \<Seach Key>`
+`python3 lucky.py <Seach Key>`
